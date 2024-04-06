@@ -1,0 +1,13 @@
+langchain==0.1.14
+langchain_google_genai==1.0.1
+librosa==0.10.1
+Pillow==9.2.0
+Pillow==10.3.0
+protobuf==3.20.0
+PyPDF2==3.0.1
+python-dotenv==1.0.1
+streamlit==1.33.0
+streamlit_mic_recorder==0.0.8
+streamlit_option_menu==0.3.12
+torch==2.2.2
+transformers==4.39.3
