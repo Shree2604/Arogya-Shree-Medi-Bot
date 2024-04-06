@@ -128,7 +128,8 @@ def main():
 
     def contact_page():
         st.markdown("<br>", unsafe_allow_html=True)
-        st.image("36.png")
+        st.image("THumb.png")
+        st.markdown("**Watch How to Use Our ChatBot [AROGYA-SHREE-CHATBOT](https://youtu.be/2EutT93NPeM?si=SIRYGDmJeePzDyBH)**")
 
 
     def upload_page():
