@@ -9,7 +9,7 @@ streamlit_mic_recorder==0.0.8
 streamlit_option_menu==0.3.12
 torch==2.2.2
 transformers==4.39.3
-protobuf==3.19.6
+protobuf==3.20.0
 streamlit==1.33.0
 google-generativeai==0.4.1
 google-ai-generativelanguage==0.4.0
